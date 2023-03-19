@@ -1,0 +1,9 @@
+seaborn==0.11.2
+torch==1.7.1
+torchaudio==0.7.2
+torchfile==0.1.0
+torchvision==0.8.2
+visdom==0.1.8.9
+pynvml==11.0.0
+pot==0.8.1.0
+tqdm==4.54.1
